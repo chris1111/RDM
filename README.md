@@ -17,3 +17,5 @@ This is a fork of https://github.com/avibrazil/RDM.
 Code for toggling display mirroring is taken from https://github.com/fcanas/mirror-displays.
 
 Requires macOS 10.10 or higher for running, Xcode 10 for building. For older systems use the original version.
+
+Downloads my release ➣ [RDM.zip](https://github.com/chris1111/RDM/releases/tag/V2.3.1)
